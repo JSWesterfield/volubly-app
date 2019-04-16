@@ -27,14 +27,31 @@ barfoo
 
 ## Built With
 
-* [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework from Google
+* [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework from Google. Version 7.2.
+
 * [Typescript](https://www.typescriptlang.org/docs/handbook/angular.html) - Strict syntactical superset of JavaScript, and adds optional static typing to the language. Integrated within Angular 7
+
 * [NPM](https://docs.npmjs.com/) - Dependency Management
-* [Nodejs](https://nodejs.org/en/docs/) - JavaScript runtime built on Chrome's V8 JavaScript engine
+* [yarn](https://docs.npmjs.com/) - Dependency Management
+* [Angular CLI 7.3.2](https://angular.io/cli) - command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications
+* [ExpressJS](https://expressjs.com/en/starter/installing.html/)- fast, unopinionated, minimalist web framework for node
 * [GraphQL](https://graphql.org/learn/) - Query language for your API, and a server-side runtime for executing queries by using a type system you define for your data
-* [Apollo-GraphQL](https://www.apollographql.com/docs/) - Replace many inflexible APIs with a single versatile query system
+* [Apollo-GraphQL](https://www.apollographql.com/docs/) - GraphQL server for Express for replacing many inflexible APIs with a single versatile query system
+
+* [GraphQL-Subscriptions](https://www.apollographql.com/docs/react/advanced/subscriptions) - A small module that implements GraphQL subscriptions for Node.js
+
+* [GraphQL-Modules](https://graphql-modules.com/docs/introduction/getting-started) - a toolset of libraries and guidelines dedicated to create reusable, maintainable, testable and extendable modules out of your GraphQL server
+
+* [GraphQL-Code-Generator](https://graphql-code-generator.com/docs/getting-started/) - CLI tool that can generate TypeScript typings out of a GraphQL schema
+
+* [TypeORM](https://github.com/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports PostgreSQL. Works in NodeJS
+
 * [Angular Material UI](https://material.angular.io/) - Material Design components for Angular
+
 * [Postgresql](https://www.postgresql.org/docs/) -  Open source object-relational database 
+Modules
+
+* [Body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
