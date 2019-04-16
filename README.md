@@ -1,4 +1,3 @@
-=======
 # Volubly App
 
 Volubly is a Angular 7 application for the purpose of messaging and Voice over IP service, allowing users to send text messages, voice calls, recorded voice messages, video calls, images, documents, and user location.
@@ -11,12 +10,15 @@ Volubly is a Angular 7 application for the purpose of messaging and Voice over I
 Install PostgreSQL following the [official instructions](https://www.postgresql.org/docs/9.3/tutorial-install.html).
 
 ### Run instructions
+
+```yarn
 Run yarn
     $ yarn install
 Run codegen to generate TypeScript types
     $ yarn generate
 Run start
     $ yarn start
+```
 Note that the server is using a common Cloudinary storage for uploading images. To change Cloudinary URL, please edit the `.env` file.
 
 ## Installation
@@ -78,4 +80,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 230b84570295307b116a56e3e1d0a104a821c7ce
