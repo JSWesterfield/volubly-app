@@ -16,17 +16,32 @@ npm install volubly-app
 ## Usage
 
 ```javascript
- foobar
+foobar
 to 
 foo
 extracted from
 barfoo
 ```
 
+## Built With
+
+* [Angular](https://angular.io/docs) - TypeScript-based open-source web application framework from Google
+* [Typescript](https://www.typescriptlang.org/docs/handbook/angular.html) - Strict syntactical superset of JavaScript, and adds optional static typing to the language. Integrated within Angular 7
+* [NPM](https://docs.npmjs.com/) - Dependency Management
+* [Nodejs](https://nodejs.org/en/docs/) - JavaScript runtime built on Chrome's V8 JavaScript engine
+* [GraphQL](https://graphql.org/learn/) - Query language for your API, and a server-side runtime for executing queries by using a type system you define for your data
+* [Apollo-GraphQL](https://www.apollographql.com/docs/) - Replace many inflexible APIs with a single versatile query system
+* [Angular Material UI](https://material.angular.io/) - Material Design components for Angular
+* [Postgresql](https://www.postgresql.org/docs/) -  Open source object-relational database 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Authors
+
+* **Jake Westerfield** - *Primary Work*
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
