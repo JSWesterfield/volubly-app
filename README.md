@@ -31,14 +31,16 @@ npm install volubly-app
 
 ## Usage
 
-Implements the same functionality as the WhatsApp application for mobile devices
+Implements the same functionality as WhatsApp for mobile devices
 
 ```javascript
+//adding stuff later
 foobar
 to 
 foo
 extracted from
 barfoo
+
 ```
 
 ## Built With
