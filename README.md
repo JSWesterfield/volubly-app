@@ -4,7 +4,7 @@ Volubly is a Angular 7 application for the purpose of messaging and Voice over I
 
 ![whatsapp-mirror-img](https://cdn.vox-cdn.com/thumbor/JGRpwGpn1T9VpgeQ-Tu2s7ACihM=/0x0:1600x1000/1200x800/filters:focal(672x372:928x628)/cdn.vox-cdn.com/uploads/chorus_image/image/61917983/395757627359586.0.png)
 
-<a href="https://medium.com/the-guild/react-graphql-typescript-postgresql-whatsapp-de1840c27d21"><p align="center"><img src="https://cdn-images-1.medium.com/max/1040/1*fFUJd7moWtjvMZ5dE-A80g.gif" alt="whatsapp" width="240"></p></a>
+<a href=""><p align="center"><img src="https://cdn-images-1.medium.com/max/1040/1*fFUJd7moWtjvMZ5dE-A80g.gif" alt="whatsapp" width="240"></p></a>
 
 ### Prerequisites
 Install PostgreSQL following the [official instructions](https://www.postgresql.org/docs/9.3/tutorial-install.html).
